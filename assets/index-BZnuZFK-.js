@@ -1,4 +1,4 @@
-import{j as t}from"./index-CtbpSyy4.js";const o=()=>t.jsx("div",{className:"ml-10",children:t.jsx("pre",{className:"whitespace-pre-wrap",children:`- Cấu trúc source code dự án React/TypeScript
+import{j as t}from"./index-vXqQJnV5.js";const o=()=>t.jsx("div",{className:"ml-10",children:t.jsx("pre",{className:"whitespace-pre-wrap",children:`- Cấu trúc source code dự án React/TypeScript
 
   src/                # App-level setup
   ├── router/             # App router config
